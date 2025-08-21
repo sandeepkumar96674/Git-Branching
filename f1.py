@@ -14,3 +14,4 @@ def is_prime(n):
 for num in range(1, 101):
     if is_prime(num):
         print(num)
+        print("Added conflict")
